@@ -1,0 +1,1 @@
+"C:\Program Files\Git\bin\bash.exe" --login -i -c "browser-sync start --server --files "stylesheets/*.css, *.html"
